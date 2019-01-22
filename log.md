@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 **Link to work:**
-[project](https://github.com/vturrisi/pytorch-journey)
+[project](https://github.com/vturrisi/pytorch-journey) [ignore]
 
 ### Day 1: Jan 22, 2018
 
